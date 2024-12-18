@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## Connect with Me
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Slimdaddy254?style=social)](https://twitter.com/Slimdaddy254)
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-YourChannelID?style=social)](https://www.youtube.com/c/YourChannelName)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/YourSpotifyUsername)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-YourChannelID?style=social)](https://www.youtube.com/@shady_mutethia)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/2b82vrtppnwpf6dzybzq84jix?si=f0d2ec17011140a9)
 
 ## GitHub Stats
 
