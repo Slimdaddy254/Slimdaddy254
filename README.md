@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## Spotify Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/slimdaddy)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/2b82vrtppnwpf6dzybzq84jix?si=f0d2ec17011140a9)
 
 ## Get In Touch
 
