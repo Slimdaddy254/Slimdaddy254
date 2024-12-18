@@ -36,8 +36,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ### Some Humor
 - Why do programmers prefer dark mode? Because light attracts bugs!
-- "Why don’t skeletons fight each other?"
--   They don’t have the guts.
+- "Why don’t skeletons fight each other?"  They don’t have the guts.
 
 
 ## Connect with Me
