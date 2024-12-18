@@ -1,32 +1,34 @@
-# Hi there, I'm Slimdaddy254! 👋
+# Hi there, I'm Shadrack Mutethia! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects.
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technologies/Skills You're Learning]
-- 👯 I’m looking to collaborate on [Projects or Areas of Interest]
-- 🤔 I’m looking for help with [Specific Area or Project]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Email or LinkedIn]
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on my Engineering Skills
+- 🌱 I’m currently learning Web development, AI and Machine Learning
+- 👯 I’m looking to collaborate on webapps and Machine Learning Projects
+- 🤔 I’m looking for help with building and selling SaaS apps
+- 💬 Ask me about Energy Engineering, Applied Physics and Music Production
+- 📫 How to reach me: shadymutethia@gmail.com
+- ⚡ Fun fact: FL studio is my true love.
 
 ## My Skills
 
-- **Languages:** [Languages You Know]
-- **Frameworks:** [Frameworks You Use]
-- **Tools:** [Tools You Use]
-- **Other:** [Other Relevant Skills]
+### Languages & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## Projects
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Here are some of my favorite projects:
 
-- [Project 1 Name](Link to Project) - Short description of the project.
-- [Project 2 Name](Link to Project) - Short description of the project.
-- [Project 3 Name](Link to Project) - Short description of the project.
 
 ## Connect with Me
 
@@ -44,14 +46,14 @@ Here are some of my favorite projects:
 
 ## Spotify Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YourSpotifyUsername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/slimdaddy)
 
 ## Get In Touch
 
 - [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Profile)
-- [YouTube](Your YouTube Channel)
-- [Spotify](Your Spotify Profile)
-- [Email](Your Email)
+- [Twitter](https://twitter.com/Shady_Mutethia)
+- [YouTube](https://www.youtube.com/@shady_mutethia)
+- [Spotify](https://open.spotify.com/user/2b82vrtppnwpf6dzybzq84jix?si=f0d2ec17011140a9)
+- [Email](shadymutethia@gmail.com)
 
 Thank you for visiting my profile! Let's connect and build amazing things together.
