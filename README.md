@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## Latest Tweet
 
-![Twitter](https://img.shields.io/twitter/url?label=Latest%20Tweet&style=social&url=https%3A%2F%2Ftwitter.com%2FSlimdaddy254)
+![Twitter](https://img.shields.io/twitter/url?label=Latest%20Tweet&style=social&url=https%3A%2F%2Ftwitter.com%2FShady_mutethia)
 
 ## Spotify Playing
 
@@ -59,7 +59,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## Get In Touch
 
-- [LinkedIn](Your LinkedIn Profile)
 - [Twitter](https://twitter.com/Shady_Mutethia)
 - [YouTube](https://www.youtube.com/@shady_mutethia)
 - [Spotify](https://open.spotify.com/user/2b82vrtppnwpf6dzybzq84jix?si=f0d2ec17011140a9)
