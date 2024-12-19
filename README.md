@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects.
 ![Profile Views](https://komarev.com/ghpvc/?username=Slimdaddy254&color=blueviolet)
 
-
 ## About Me
 
 - 🔭 I’m currently working on my Engineering Skills
@@ -29,15 +28,20 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=visio&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-0078D7?style=for-the-badge&logo=proteus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
 ### Fun Science Fact
--You’re shorter in the evening than in the morning.
--Throughout the day, the cartilage in your spine compresses due to gravity, making you slightly shorter by bedtime.
+- You’re shorter in the evening than in the morning.
+- Throughout the day, the cartilage in your spine compresses due to gravity, making you slightly shorter by bedtime.
 
 ### Some Humor
 - Why do programmers prefer dark mode? Because light attracts bugs!
 - "Why don’t skeletons fight each other?"  They don’t have the guts.
-
 
 ## Connect with Me
 
