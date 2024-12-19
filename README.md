@@ -35,6 +35,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
+### Favorite Quote
+<div style="font-family: 'Courier New', Courier, monospace; font-size: 20px; color: #2E3A87;">
+  <q>The only way to do great work is to love what you do.</q> - Steve Jobs
+</div>
+
 ### Fun Science Fact
 - You’re shorter in the evening than in the morning.
 - Throughout the day, the cartilage in your spine compresses due to gravity, making you slightly shorter by bedtime.
