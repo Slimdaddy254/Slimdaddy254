@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-0055FF?style=for-the-badge&logo=cursor&logoColor=white)
+
 
 
 
