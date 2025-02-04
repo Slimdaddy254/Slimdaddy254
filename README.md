@@ -29,6 +29,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC913B?style=for-the-badge&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 
 
 ### Tools & Platforms
@@ -43,6 +46,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-0055FF?style=for-the-badge&logo=cursor&logoColor=white)
+
 
 
 ### Favorite Quote
