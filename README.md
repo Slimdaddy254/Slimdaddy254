@@ -3,7 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects.
 ![Profile Views](https://komarev.com/ghpvc/?username=Slimdaddy254&color=blueviolet)
 <!-- 🎯 Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+There!+👋;I'm+a+Full-Stack+Developer;Passionate+About+Code+%26+Design;Always+Learning+New+Tech)](https://git.io/typing-svg)
+<!-- 🎯 Typing Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+There!+👋;I'm+a+Full-Stack+Developer;Passionate+About+Code+%26+Design;Always+Learning+New+Tech;I+Make+Music+For+Fun+🎶)](https://git.io/typing-svg)
+
 
 
 ## About Me
