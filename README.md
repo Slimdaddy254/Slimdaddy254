@@ -1,3 +1,6 @@
+<!-- 🎯 Profile Banner -->
+![Banner](https://github.com/Slimdaddy254/Slimdaddy254/blob/350be6edee72f4196cb0b006cbd2653fbe868adb/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
+
 # Hi there, I'm Shadrack Mutethia! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects.
