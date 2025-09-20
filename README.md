@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects.
 ![Profile Views](https://komarev.com/ghpvc/?username=Slimdaddy254&color=blueviolet)
+<!-- 🎯 Typing Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=FF5733&center=true&vCenter=true&width=800&lines=Hi+There!+👋;I'm+a+Full-Stack+Developer;Passionate+About+Code+%26+Design;Always+Learning+New+Tech)](https://git.io/typing-svg)
+
 
 ## About Me
 
@@ -61,6 +64,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
 
 ---
+### 🎨 Design & UI/UX  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
 ### 📚 Currently Learning  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
