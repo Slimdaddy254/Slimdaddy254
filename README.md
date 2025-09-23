@@ -1,5 +1,5 @@
 <!-- 🎯 Profile Banner -->
-![Banner](https://github.com/Slimdaddy254/Slimdaddy254/blob/350be6edee72f4196cb0b006cbd2653fbe868adb/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
+![Banner](https://github.com/Slimdaddy254/Slimdaddy254/blob/492762d78a1d2c1e49ea3dea5370e81c3fbab47f/banner.png)
 
 # Hi there, I'm Shadrack Mutethia! 👋
 
